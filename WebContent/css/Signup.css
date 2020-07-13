@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+p{
+	font-size:20px;
+	display: inline;
+}
+
+input.sub{
+	height: 35px;
+	width: 200px;
+}
+
+input{
+	width:200px;
+	height:25px
+}
+
+b.waring {
+	font-size: 14px;
+	color: red;
+}
+
+a.back{
+	font-size:12px;
+	color:orange;
+}
+body {
+	background-repeat:no-repeat; 
+	background-attachment:fixed
+}
+
+p.title{
+	font-size: 28px;
+	color: black;
+}
+
+div{
+	background-color: white;
+	text-align: center;
+	height: 800px;
+	line-height: 35px;
+	margin-top: 100px;
+	margin-left: 600px;
+	width:750px;
+	border-radius:30px;
+	opacity:0.95;
+	float:left;
+}

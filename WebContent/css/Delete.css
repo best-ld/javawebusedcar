@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+p{
+	font-size: 24px; 
+	display: inline;
+}
+
+div{
+	background-color: white;
+	text-align: center;
+	height: 600px;
+	line-height:40px;
+	margin-top: 200px;
+	margin-left: 600px;
+	width:750px;
+	border-radius:15px;
+	opacity:0.95;
+	box-shadow: 20px 20px 9px #222;
+}
+
+input{
+	width: 270px;
+	height:34px;
+	font-size: 19px; 
+	border:1px dashed;
+	border-radius: 10px;
+	box-shadow: 8px 8px 3px #222; 
+	  
+}
+
+input.fs{
+	height: 40px; 
+	width: 280px;
+	font-size: 16px; 
+	text-align: center;
+	border:1px solid;
+}
+p.h{
+	color: #111; 
+	font-size: 28px;
+}
+a{
+	font-size: 18px;
+	color:#0000ee; 
+	text-decoration:none;
+}
+a:hover{ 
+color:orange; 
+text-decoration: none}

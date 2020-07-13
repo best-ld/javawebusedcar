@@ -1,0 +1,69 @@
+@charset "UTF-8";
+
+p {
+	font-size: 20px;
+	display: inline;
+}
+
+b {
+	font-size: 16px;
+	color: orange;
+}
+
+h2 {
+	font-size: 25px;
+}
+
+input.submit {
+	height: 35px;
+	width: 200px;
+}
+
+input {
+	width: 200px;
+	height: 28px;
+}
+
+b.waring {
+	font-size: 14px;
+	color: red;
+}
+
+body {
+	background-repeat:no-repeat; 
+	background-attachment:fixed
+}
+
+div.d1{
+	float:left;
+	margin-left: 150px;
+	height: 450px;
+	width:550px;
+	line-height: 450px;
+	margin-top: 260px;
+	margin-left: 300px;
+}
+
+div.d2{
+	background-color: white;
+	text-align: center;
+	height: 450px;
+	line-height: 35px;
+	margin-top: 260px;
+	margin-left: 180px;
+	width:550px;
+	border-radius:30px;
+	opacity:0.9;
+	float:left;
+}
+
+p.logo{
+	font: 700 105px "YouYuan";
+    color: white;
+    text-shadow: 0 0 20px #fdec84,
+            10px -10px 30px #ffae35,
+            20px -20px 40px #ec760c,
+            -20px -60px 50px #cd4607,
+            0px -80px 60px #973717,
+            10px -40px 70px #451b0e;
+}
